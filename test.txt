@@ -4,4 +4,3 @@ Line 3
 Test github
 working on dev branch
 test conflict
-test conflict again
